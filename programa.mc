@@ -13,5 +13,4 @@ print(a)
 else
 print(b)
 
-// Se quiser testar erro léxico, descomente a linha abaixo:
-// invalid@char
+ invalid@char
